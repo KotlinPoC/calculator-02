@@ -15,11 +15,13 @@ _addstyles_ will contain everything in master AND the styles you add today.
 3. Create a branch ex: addstyles `git branch addstyles;git checkout addstyles`
 4. Make your style/theme changes, using this code as an example, my slide decks and https://developer.android.com/guide/topics/ui/look-and-feel/themes.html
 5. As you modify and test be sure to :
-```
+```bash
 git add .
 git commit
 git push origin addstyles
 ```
+Note:  depending on the SDK version you may need to use the AppCompat library to use Themes, instructions [here](http://androidstuff2018.tiddlyspot.com/#%5B%5BUsing%20Android%20Support%20Libraries%5D%5D
+) 
 
 ## Instructions for using this repo as a base, or running the code:
 
