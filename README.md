@@ -1,4 +1,5 @@
 # Simple Calculator with Styles
+originally coded in java, this repo converted to kotlin
 
 ## What is this?
 
@@ -21,7 +22,7 @@ git commit
 git push origin addstyles
 ```
 Note:  depending on the SDK version you may need to use the AppCompat library to use Themes, instructions [here](http://androidstuff2018.tiddlyspot.com/#%5B%5BUsing%20Android%20Support%20Libraries%5D%5D
-) 
+)
 
 ## Instructions for using this repo as a base, or running the code:
 
